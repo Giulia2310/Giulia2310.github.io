@@ -211,7 +211,7 @@ body {
 }
 
 .container-horizontal p {
-margin-left: 2vw;
+    margin-left: 2vw;
 }
 
 .container-editorial {
@@ -220,6 +220,11 @@ margin-left: 2vw;
     display: flex;
     flex-direction: column;
     position: relative;
+    background: linear-gradient(to bottom,
+            white 33.33%,
+            rgba(8, 122, 135, 0.2) 33.33%,
+            rgba(8, 122, 135, 0.2) 66.66%,
+            white 66.66% )
 }
 
 .container-editorial-text {
@@ -255,7 +260,7 @@ margin-left: 2vw;
 }
 
 .container-product-horizontal p {
-   padding: 5vw;
+    padding: 5vw;
 }
 
 .split-container-row-product {
@@ -285,7 +290,7 @@ margin-left: 2vw;
 }
 
 .container-product img {
-   max-height: 50vh;
+    max-height: 50vh;
 }
 
 .container-product-column {
@@ -352,6 +357,6 @@ margin-left: 2vw;
 }
 
 .graphic-right-section img {
-max-width: 100%
-;    object-fit: cover;
+    max-width: 100%;
+    object-fit: cover;
 }
