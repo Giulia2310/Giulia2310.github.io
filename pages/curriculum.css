@@ -1,0 +1,55 @@
+.container-profile-details {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-profile {
+    margin-bottom: 40px;
+}
+
+.section-profile-header {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #007d7a;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+}
+
+.icon h2 {
+    font-size: 24px;
+    color: #007d7a;
+    font-weight: bold;
+}
+
+.job {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.job h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.job p {
+    font-size: 14px;
+}
+
+.date {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 14px;
+    color: #007d7a;
+    font-weight: bold;
+}
