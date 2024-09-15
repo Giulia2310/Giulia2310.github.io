@@ -43,6 +43,8 @@
 
 .job p {
     font-size: 14px;
+    margin-top: -10px;
+    line-height: 1.5;
 }
 
 .date {
