@@ -103,7 +103,7 @@ body {
 }
 
 .button-curriculum:hover {
-    background-color: #002f2e;
+    background-color: #FF8285;
 }
 
 /* PORTFOLIO */
@@ -202,7 +202,7 @@ body {
 }
 
 .email a:hover {
-    color: #002f2e;
+    color: #FF8285;
 }
 
 .linkedin {
@@ -228,5 +228,5 @@ body {
 }
 
 .linkedin a:hover {
-    color: #002f2e;
+    color: #FF8285;
 }
