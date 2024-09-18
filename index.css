@@ -90,16 +90,17 @@ body {
     object-fit: cover;
 }
 
+.container-button-curriculum {
+margin-top: 3vh;
+}
+
 .button-curriculum {
     background-color: #007d7a;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 10px 20px;
     font-size: 1rem;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    margin-top: 20px;
 }
 
 .button-curriculum:hover {
